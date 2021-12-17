@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\MezclaMergeSort\MezclaMergeSort\bin\Debug\MezclaMergeSort.exe.config
+C:\Users\andre\source\repos\MezclaMergeSort\MezclaMergeSort\bin\Debug\MezclaMergeSort.exe
+C:\Users\andre\source\repos\MezclaMergeSort\MezclaMergeSort\bin\Debug\MezclaMergeSort.pdb
+C:\Users\andre\source\repos\MezclaMergeSort\MezclaMergeSort\obj\Debug\MezclaMergeSort.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\MezclaMergeSort\MezclaMergeSort\obj\Debug\MezclaMergeSort.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\MezclaMergeSort\MezclaMergeSort\obj\Debug\MezclaMergeSort.exe
+C:\Users\andre\source\repos\MezclaMergeSort\MezclaMergeSort\obj\Debug\MezclaMergeSort.pdb
